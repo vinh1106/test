@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 text 1
 text 2
-=======
->>>>>>> parent of b308bf7 (text change 1)
